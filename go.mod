@@ -16,9 +16,9 @@ require (
 	github.com/spf13/cobra v1.1.3
 	github.com/spf13/pflag v1.0.5
 	github.com/spf13/viper v1.8.0
-	github.com/swaggo/http-swagger v1.0.0
-	github.com/swaggo/swag v1.7.0
+	github.com/swaggo/http-swagger v1.2.6
+	github.com/swaggo/swag v1.7.9
 	go.uber.org/zap v1.17.0
-	golang.org/x/net v0.0.0-20210405180319-a5a99cb37ef4
+	golang.org/x/net v0.0.0-20210805182204-aaa1db679c0d
 	google.golang.org/grpc v1.38.0
 )
